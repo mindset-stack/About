@@ -1,70 +1,46 @@
-[INFO ] 2023-03-14 14:59:32.372 [main] Log - LoginPage Test is starting. 
-[ERROR] 2023-03-14 14:59:32.936 [main] Log - LoginPageTest is failed
-[INFO ] 2023-03-14 14:59:33.007 [main] Log - I am on finish method testng
-[INFO ] 2023-03-14 15:14:07.328 [main] Log - LoginPage Test is starting. 
-[ERROR] 2023-03-14 15:14:07.898 [main] Log - LoginPageTest is failed
-[INFO ] 2023-03-14 15:14:07.986 [main] Log - I am on finish method testng
-[INFO ] 2023-03-14 15:15:32.507 [main] Log - LoginPage Test is starting. 
-[ERROR] 2023-03-14 15:15:33.080 [main] Log - LoginPageTest is failed
-[INFO ] 2023-03-14 15:15:33.160 [main] Log - I am on finish method testng
-[INFO ] 2023-03-14 15:20:10.853 [main] Log - LoginPage Test is starting. 
-[ERROR] 2023-03-14 15:20:11.162 [main] Log - LoginPageTest is failed
-[INFO ] 2023-03-14 15:20:11.204 [main] Log - I am on finish method testng
-[INFO ] 2023-03-14 15:22:03.803 [main] Log - LoginPage Test is starting. 
-[ERROR] 2023-03-14 15:22:04.440 [main] Log - LoginPageTest is failed
-[INFO ] 2023-03-14 15:22:04.521 [main] Log - I am on finish method testng
-[INFO ] 2023-03-14 15:23:25.322 [main] Log - LoginPage Test is starting. 
-[ERROR] 2023-03-14 15:23:25.877 [main] Log - LoginPageTest is failed
-[INFO ] 2023-03-14 15:23:25.937 [main] Log - I am on finish method testng
-[INFO ] 2023-03-14 15:31:57.492 [main] Log - LoginPage Test is starting. 
-[ERROR] 2023-03-14 15:31:58.031 [main] Log - LoginPageTest is failed
-[INFO ] 2023-03-14 15:31:58.128 [main] Log - I am on finish method testng
-[INFO ] 2023-03-14 15:33:49.200 [main] Log - LoginPage Test is starting. 
-[ERROR] 2023-03-14 15:33:49.701 [main] Log - LoginPageTest is failed
-[INFO ] 2023-03-14 15:33:49.802 [main] Log - I am on finish method testng
-[INFO ] 2023-03-14 15:37:05.724 [main] Log - LoginPage Test is starting. 
-[ERROR] 2023-03-14 15:37:06.288 [main] Log - LoginPageTest is failed
-[INFO ] 2023-03-14 15:37:06.397 [main] Log - I am on finish method testng
-[INFO ] 2023-03-14 15:39:22.331 [main] Log - LoginPage Test is starting. 
-[ERROR] 2023-03-14 15:39:22.927 [main] Log - LoginPageTest is failed
-[INFO ] 2023-03-14 15:39:23.046 [main] Log - I am on finish method testng
-[INFO ] 2023-03-14 15:41:30.315 [main] Log - LoginPage Test is starting. 
-[ERROR] 2023-03-14 15:41:30.775 [main] Log - LoginPageTest is failed
-[INFO ] 2023-03-14 15:41:30.838 [main] Log - I am on finish method testng
-[INFO ] 2023-03-14 15:44:00.540 [main] Log - chrome browser selected
-[INFO ] 2023-03-14 15:44:00.952 [main] Log - Opened chrome browser
-[INFO ] 2023-03-14 15:44:01.228 [main] Log - Window is maximized
-[INFO ] 2023-03-14 15:44:11.002 [main] Log - Opened URL is  https://pulse-stage.projectai.com/login
-[INFO ] 2023-03-14 15:44:11.060 [main] Log - LoginPage Test is starting. 
-[INFO ] 2023-03-14 15:44:11.220 [main] Log - Text in the element is [[ChromeDriver: chrome on WINDOWS (de4947585139de12228943261ce6ebb2)] -> xpath: //input[@name='username']]is cleared
-[INFO ] 2023-03-14 15:44:11.331 [main] Log - Cliked on textbox [[ChromeDriver: chrome on WINDOWS (de4947585139de12228943261ce6ebb2)] -> xpath: //input[@name='username']]
-[INFO ] 2023-03-14 15:44:11.526 [main] Log - Entered text on [[ChromeDriver: chrome on WINDOWS (de4947585139de12228943261ce6ebb2)] -> xpath: //input[@name='username']] text
-[INFO ] 2023-03-14 15:44:11.589 [main] Log - Text in the element is [[ChromeDriver: chrome on WINDOWS (de4947585139de12228943261ce6ebb2)] -> xpath: //input[@name='password']]is cleared
-[INFO ] 2023-03-14 15:44:11.660 [main] Log - Cliked on textbox [[ChromeDriver: chrome on WINDOWS (de4947585139de12228943261ce6ebb2)] -> xpath: //input[@name='password']]
-[INFO ] 2023-03-14 15:44:11.765 [main] Log - Entered text on [[ChromeDriver: chrome on WINDOWS (de4947585139de12228943261ce6ebb2)] -> xpath: //input[@name='password']] text
-[INFO ] 2023-03-14 15:44:11.823 [main] Log - wait for until element [[ChromeDriver: chrome on WINDOWS (de4947585139de12228943261ce6ebb2)] -> xpath: //button[normalize-space()='Sign In']]is visible
-[INFO ] 2023-03-14 15:44:11.896 [main] Log - Clicked on element [[ChromeDriver: chrome on WINDOWS (de4947585139de12228943261ce6ebb2)] -> xpath: //button[normalize-space()='Sign In']]
-[INFO ] 2023-03-14 15:44:19.927 [main] Log - LoginPageTest is passed
-[INFO ] 2023-03-14 15:44:19.927 [main] Log - LoginPage com.blazeclan.qa.test.testng.LoginTest a4fc86f6-86d3-4122-b606-fa22d8658baf []
-[INFO ] 2023-03-14 15:44:20.185 [main] Log - AboutMe Test is starting. 
-[INFO ] 2023-03-14 15:44:25.263 [main] Log - wait for until element [[ChromeDriver: chrome on WINDOWS (de4947585139de12228943261ce6ebb2)] -> xpath: //span[contains(text(),'My Projects')]]is visible
-[INFO ] 2023-03-14 15:44:25.331 [main] Log - Clicked on element [[ChromeDriver: chrome on WINDOWS (de4947585139de12228943261ce6ebb2)] -> xpath: //span[contains(text(),'My Projects')]]
-[INFO ] 2023-03-14 15:44:25.954 [main] Log - wait for until element [[ChromeDriver: chrome on WINDOWS (de4947585139de12228943261ce6ebb2)] -> xpath: //li[@class='pro-menu-item']/div/span[@class='pro-item-content']]is visible
-[INFO ] 2023-03-14 15:44:26.055 [main] Log - Clicked on element [[ChromeDriver: chrome on WINDOWS (de4947585139de12228943261ce6ebb2)] -> xpath: //li[@class='pro-menu-item']/div/span[@class='pro-item-content']]
-[INFO ] 2023-03-14 15:44:32.653 [main] Log - wait for until element [[ChromeDriver: chrome on WINDOWS (de4947585139de12228943261ce6ebb2)] -> xpath: //span[@class='MuiIconButton-label']]is visible
-[INFO ] 2023-03-14 15:44:32.896 [main] Log - Clicked on element [[ChromeDriver: chrome on WINDOWS (de4947585139de12228943261ce6ebb2)] -> xpath: //span[@class='MuiIconButton-label']]
-[INFO ] 2023-03-14 15:44:33.061 [main] Log - wait for until element [[ChromeDriver: chrome on WINDOWS (de4947585139de12228943261ce6ebb2)] -> xpath: //span[contains(text(),'About Me')]]is visible
-[INFO ] 2023-03-14 15:44:33.532 [main] Log - Clicked on element [[ChromeDriver: chrome on WINDOWS (de4947585139de12228943261ce6ebb2)] -> xpath: //span[contains(text(),'About Me')]]
-[INFO ] 2023-03-14 15:44:36.994 [main] Log - AboutMeTest is passed
-[INFO ] 2023-03-14 15:44:36.996 [main] Log - AboutMe com.blazeclan.qa.test.testng.AboutMeTest 2c2acf69-cc81-43fc-b8fa-c26b5f51f4fd []
-[INFO ] 2023-03-14 15:44:37.250 [main] Log - Logout Test is starting. 
-[INFO ] 2023-03-14 15:44:37.347 [main] Log - wait for until element [[ChromeDriver: chrome on WINDOWS (de4947585139de12228943261ce6ebb2)] -> xpath: //div[@class='ij_XRAOXFVqUYY8480uZC']]is visible
-[INFO ] 2023-03-14 15:44:37.523 [main] Log - Clicked on element [[ChromeDriver: chrome on WINDOWS (de4947585139de12228943261ce6ebb2)] -> xpath: //div[@class='ij_XRAOXFVqUYY8480uZC']]
-[INFO ] 2023-03-14 15:44:40.745 [main] Log - wait for until element [[ChromeDriver: chrome on WINDOWS (de4947585139de12228943261ce6ebb2)] -> xpath: //a[normalize-space()='Log Out']]is visible
-[INFO ] 2023-03-14 15:44:44.316 [main] Log - Clicked on element Proxy element for: DefaultElementLocator 'By.xpath: //a[normalize-space()='Log Out']'
-[INFO ] 2023-03-14 15:44:44.332 [main] Log - LogoutTest is passed
-[INFO ] 2023-03-14 15:44:44.333 [main] Log - Logout com.blazeclan.qa.test.testng.LogoutTest 3ec38606-94d3-4720-94bb-08b93fdb6826 []
-[INFO ] 2023-03-14 15:44:46.485 [main] Log - I am on finish method testng
-[INFO ] 2023-03-14 15:45:14.323 [main] Log - LoginPage Test is starting. 
-[ERROR] 2023-03-14 15:45:14.846 [main] Log - LoginPageTest is failed
-[INFO ] 2023-03-14 15:45:14.939 [main] Log - I am on finish method testng
+[INFO ] 2023-03-23 13:18:11.723 [main] Log - chrome browser is selected
+[INFO ] 2023-03-23 13:18:12.158 [main] Log - LoginPage Test is starting. 
+[ERROR] 2023-03-23 13:18:12.161 [main] Log - LoginPageTest is failed
+[INFO ] 2023-03-23 13:18:12.245 [main] Log - I am on finish method testng
+[INFO ] 2023-03-23 13:20:55.517 [main] Log - chrome browser selected
+[INFO ] 2023-03-23 13:20:56.112 [main] Log - Opened firefox browser
+[INFO ] 2023-03-23 13:20:56.139 [main] Log - Window is maximized
+[INFO ] 2023-03-23 13:21:01.664 [main] Log - Opened URL is  https://pulse-stage.projectai.com/login
+[INFO ] 2023-03-23 13:21:01.851 [main] Log - LoginPage Test is starting. 
+[ERROR] 2023-03-23 13:21:02.661 [main] Log - LoginPageTest is failed
+[ERROR] 2023-03-23 13:21:02.682 [main] Log - LoginPageTest is failed
+[INFO ] 2023-03-23 13:21:02.854 [main] Log - I am on finish method testng
+[INFO ] 2023-03-23 13:22:02.420 [main] Log - LoginPage Test is starting. 
+[ERROR] 2023-03-23 13:22:02.976 [main] Log - LoginPageTest is failed
+[INFO ] 2023-03-23 13:22:03.073 [main] Log - I am on finish method testng
+[INFO ] 2023-03-23 13:23:16.651 [main] Log - LoginPage Test is starting. 
+[ERROR] 2023-03-23 13:23:17.757 [main] Log - LoginPageTest is failed
+[INFO ] 2023-03-23 13:23:18.007 [main] Log - I am on finish method testng
+[INFO ] 2023-03-23 13:30:38.528 [main] Log - LoginPage Test is starting. 
+[ERROR] 2023-03-23 13:30:38.966 [main] Log - LoginPageTest is failed
+[INFO ] 2023-03-23 13:30:39.053 [main] Log - I am on finish method testng
+[INFO ] 2023-03-23 13:32:45.964 [main] Log - chrome browser is selected
+[INFO ] 2023-03-23 13:32:46.386 [main] Log - LoginPage Test is starting. 
+[ERROR] 2023-03-23 13:32:46.389 [main] Log - LoginPageTest is failed
+[INFO ] 2023-03-23 13:32:46.496 [main] Log - I am on finish method testng
+[INFO ] 2023-03-23 13:33:58.556 [main] Log - Opened chrome browser
+[INFO ] 2023-03-23 13:33:59.515 [main] Log - Window is maximized
+[INFO ] 2023-03-23 13:34:05.774 [main] Log - Opened URL is  https://pulse-stage.projectai.com/login
+[INFO ] 2023-03-23 13:34:05.831 [main] Log - LoginPage Test is starting. 
+[INFO ] 2023-03-23 13:34:06.039 [main] Log - Text in the element is [[ChromeDriver: chrome on WINDOWS (e6229bf273b38be319da2e098f244a97)] -> xpath: //input[@name='username']]is cleared
+[INFO ] 2023-03-23 13:34:06.165 [main] Log - Cliked on textbox [[ChromeDriver: chrome on WINDOWS (e6229bf273b38be319da2e098f244a97)] -> xpath: //input[@name='username']]
+[INFO ] 2023-03-23 13:34:06.354 [main] Log - Entered text on [[ChromeDriver: chrome on WINDOWS (e6229bf273b38be319da2e098f244a97)] -> xpath: //input[@name='username']] text
+[INFO ] 2023-03-23 13:34:06.443 [main] Log - Text in the element is [[ChromeDriver: chrome on WINDOWS (e6229bf273b38be319da2e098f244a97)] -> xpath: //input[@name='password']]is cleared
+[INFO ] 2023-03-23 13:34:06.532 [main] Log - Cliked on textbox [[ChromeDriver: chrome on WINDOWS (e6229bf273b38be319da2e098f244a97)] -> xpath: //input[@name='password']]
+[INFO ] 2023-03-23 13:34:06.641 [main] Log - Entered text on [[ChromeDriver: chrome on WINDOWS (e6229bf273b38be319da2e098f244a97)] -> xpath: //input[@name='password']] text
+[INFO ] 2023-03-23 13:34:06.737 [main] Log - wait for until element [[ChromeDriver: chrome on WINDOWS (e6229bf273b38be319da2e098f244a97)] -> xpath: //button[normalize-space()='Sign In']]is visible
+[INFO ] 2023-03-23 13:34:06.836 [main] Log - Clicked on element [[ChromeDriver: chrome on WINDOWS (e6229bf273b38be319da2e098f244a97)] -> xpath: //button[normalize-space()='Sign In']]
+[INFO ] 2023-03-23 13:34:14.876 [main] Log - LoginPageTest is passed
+[INFO ] 2023-03-23 13:34:14.878 [main] Log - LoginPage com.blazeclan.qa.test.testng.LoginTest 4e2bd0b6-3444-4fb3-a8ca-ed7b90c32f85 []
+[INFO ] 2023-03-23 13:34:15.176 [main] Log - AboutMe Test is starting. 
+[ERROR] 2023-03-23 13:34:40.675 [main] Log - AboutMeTest is failed
+[ERROR] 2023-03-23 13:34:40.683 [main] Log - AboutMeTest is failed
+[INFO ] 2023-03-23 13:34:41.860 [main] Log - I am on finish method testng
+[INFO ] 2023-03-23 13:35:47.998 [main] Log - chrome browser is selected
+[INFO ] 2023-03-23 13:35:48.598 [main] Log - Opened chrome browser
+[INFO ] 2023-03-23 13:35:48.935 [main] Log - Window is maximized
