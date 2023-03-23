@@ -1,0 +1,69 @@
+[INFO ] 2023-03-21 16:31:06.185 [main] Log - Please provide browser name
+[INFO ] 2023-03-21 16:31:06.598 [main] Log - LoginPage Test is starting. 
+[ERROR] 2023-03-21 16:31:06.602 [main] Log - LoginPageTest is failed
+[INFO ] 2023-03-21 16:31:06.707 [main] Log - I am on finish method testng
+[INFO ] 2023-03-21 16:33:34.493 [main] Log - Opened Firefox browser
+[INFO ] 2023-03-21 16:33:34.900 [main] Log - LoginPage Test is starting. 
+[ERROR] 2023-03-21 16:33:34.903 [main] Log - LoginPageTest is failed
+[INFO ] 2023-03-21 16:33:34.983 [main] Log - I am on finish method testng
+[INFO ] 2023-03-21 16:36:39.684 [main] Log - Opened Firefox browser
+[INFO ] 2023-03-21 16:36:40.145 [main] Log - LoginPage Test is starting. 
+[ERROR] 2023-03-21 16:36:40.149 [main] Log - LoginPageTest is failed
+[INFO ] 2023-03-21 16:36:40.231 [main] Log - I am on finish method testng
+[INFO ] 2023-03-21 16:43:06.929 [main] Log - Opened Firefox browser
+[INFO ] 2023-03-21 16:43:07.373 [main] Log - LoginPage Test is starting. 
+[ERROR] 2023-03-21 16:43:07.376 [main] Log - LoginPageTest is failed
+[INFO ] 2023-03-21 16:43:07.455 [main] Log - I am on finish method testng
+[INFO ] 2023-03-21 16:44:19.213 [main] Log - LoginPage Test is starting. 
+[ERROR] 2023-03-21 16:44:19.478 [main] Log - LoginPageTest is failed
+[INFO ] 2023-03-21 16:44:19.562 [main] Log - I am on finish method testng
+[INFO ] 2023-03-21 16:45:13.213 [main] Log - LoginPage Test is starting. 
+[ERROR] 2023-03-21 16:45:13.495 [main] Log - LoginPageTest is failed
+[INFO ] 2023-03-21 16:45:13.581 [main] Log - I am on finish method testng
+[INFO ] 2023-03-21 16:47:42.606 [main] Log - LoginPage Test is starting. 
+[ERROR] 2023-03-21 16:47:43.016 [main] Log - LoginPageTest is failed
+[INFO ] 2023-03-21 16:47:43.105 [main] Log - I am on finish method testng
+[INFO ] 2023-03-21 16:48:52.198 [main] Log - LoginPage Test is starting. 
+[ERROR] 2023-03-21 16:48:52.463 [main] Log - LoginPageTest is failed
+[INFO ] 2023-03-21 16:48:52.550 [main] Log - I am on finish method testng
+[INFO ] 2023-03-21 16:52:25.731 [main] Log - Please provide browser name
+[INFO ] 2023-03-21 16:52:26.173 [main] Log - LoginPage Test is starting. 
+[ERROR] 2023-03-21 16:52:26.176 [main] Log - LoginPageTest is failed
+[INFO ] 2023-03-21 16:52:26.275 [main] Log - I am on finish method testng
+[INFO ] 2023-03-21 17:08:47.527 [main] Log - firefox browser is selected
+[INFO ] 2023-03-21 17:08:47.905 [main] Log - LoginPage Test is starting. 
+[ERROR] 2023-03-21 17:08:47.907 [main] Log - LoginPageTest is failed
+[INFO ] 2023-03-21 17:08:47.981 [main] Log - I am on finish method testng
+[INFO ] 2023-03-21 17:10:43.733 [main] Log - chrome browser selected
+[INFO ] 2023-03-21 17:10:44.189 [main] Log - Opened firefox browser
+[INFO ] 2023-03-21 17:10:44.214 [main] Log - Window is maximized
+[INFO ] 2023-03-21 17:10:51.807 [main] Log - Opened URL is  https://pulse-stage.projectai.com/login
+[INFO ] 2023-03-21 17:10:51.852 [main] Log - LoginPage Test is starting. 
+[INFO ] 2023-03-21 17:10:51.973 [main] Log - Text in the element is [[FirefoxDriver: firefox on WINDOWS (442139f9-b542-4714-abb6-88b7f1e92a25)] -> xpath: //input[@name='username']]is cleared
+[INFO ] 2023-03-21 17:10:52.264 [main] Log - Cliked on textbox [[FirefoxDriver: firefox on WINDOWS (442139f9-b542-4714-abb6-88b7f1e92a25)] -> xpath: //input[@name='username']]
+[INFO ] 2023-03-21 17:10:52.424 [main] Log - Entered text on [[FirefoxDriver: firefox on WINDOWS (442139f9-b542-4714-abb6-88b7f1e92a25)] -> xpath: //input[@name='username']] text
+[INFO ] 2023-03-21 17:10:52.441 [main] Log - Text in the element is [[FirefoxDriver: firefox on WINDOWS (442139f9-b542-4714-abb6-88b7f1e92a25)] -> xpath: //input[@name='password']]is cleared
+[INFO ] 2023-03-21 17:10:52.683 [main] Log - Cliked on textbox [[FirefoxDriver: firefox on WINDOWS (442139f9-b542-4714-abb6-88b7f1e92a25)] -> xpath: //input[@name='password']]
+[INFO ] 2023-03-21 17:10:52.769 [main] Log - Entered text on [[FirefoxDriver: firefox on WINDOWS (442139f9-b542-4714-abb6-88b7f1e92a25)] -> xpath: //input[@name='password']] text
+[INFO ] 2023-03-21 17:10:52.822 [main] Log - wait for until element [[FirefoxDriver: firefox on WINDOWS (442139f9-b542-4714-abb6-88b7f1e92a25)] -> xpath: //button[normalize-space()='Sign In']]is visible
+[INFO ] 2023-03-21 17:10:53.069 [main] Log - Clicked on element [[FirefoxDriver: firefox on WINDOWS (442139f9-b542-4714-abb6-88b7f1e92a25)] -> xpath: //button[normalize-space()='Sign In']]
+[INFO ] 2023-03-21 17:11:01.103 [main] Log - LoginPageTest is passed
+[INFO ] 2023-03-21 17:11:01.103 [main] Log - LoginPage com.blazeclan.qa.test.testng.LoginTest 74748e3b-d4fe-4a79-9d00-0bb40ad276bf []
+[INFO ] 2023-03-21 17:11:01.284 [main] Log - AboutMe Test is starting. 
+[INFO ] 2023-03-21 17:11:06.364 [main] Log - wait for until element [[FirefoxDriver: firefox on WINDOWS (442139f9-b542-4714-abb6-88b7f1e92a25)] -> xpath: //span[contains(text(),'My Projects')]]is visible
+[INFO ] 2023-03-21 17:11:06.621 [main] Log - Clicked on element [[FirefoxDriver: firefox on WINDOWS (442139f9-b542-4714-abb6-88b7f1e92a25)] -> xpath: //span[contains(text(),'My Projects')]]
+[INFO ] 2023-03-21 17:11:06.660 [main] Log - wait for until element [[FirefoxDriver: firefox on WINDOWS (442139f9-b542-4714-abb6-88b7f1e92a25)] -> xpath: //li[@class='pro-menu-item']/div/span[@class='pro-item-content']]is visible
+[INFO ] 2023-03-21 17:11:06.928 [main] Log - Clicked on element [[FirefoxDriver: firefox on WINDOWS (442139f9-b542-4714-abb6-88b7f1e92a25)] -> xpath: //li[@class='pro-menu-item']/div/span[@class='pro-item-content']]
+[INFO ] 2023-03-21 17:11:08.891 [main] Log - wait for until element [[FirefoxDriver: firefox on WINDOWS (442139f9-b542-4714-abb6-88b7f1e92a25)] -> xpath: //span[@class='MuiIconButton-label']]is visible
+[INFO ] 2023-03-21 17:11:10.152 [main] Log - Clicked on element Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='MuiIconButton-label']'
+[INFO ] 2023-03-21 17:11:10.180 [main] Log - wait for until element [[FirefoxDriver: firefox on WINDOWS (442139f9-b542-4714-abb6-88b7f1e92a25)] -> xpath: //span[contains(text(),'About Me')]]is visible
+[INFO ] 2023-03-21 17:11:10.563 [main] Log - Clicked on element [[FirefoxDriver: firefox on WINDOWS (442139f9-b542-4714-abb6-88b7f1e92a25)] -> xpath: //span[contains(text(),'About Me')]]
+[ERROR] 2023-03-21 17:11:13.626 [main] Log - AboutMeTest is failed
+[INFO ] 2023-03-21 17:11:13.759 [main] Log - Logout Test is starting. 
+[INFO ] 2023-03-21 17:11:13.803 [main] Log - wait for until element [[FirefoxDriver: firefox on WINDOWS (442139f9-b542-4714-abb6-88b7f1e92a25)] -> xpath: //div[@class='ij_XRAOXFVqUYY8480uZC']]is visible
+[INFO ] 2023-03-21 17:11:14.042 [main] Log - Clicked on element [[FirefoxDriver: firefox on WINDOWS (442139f9-b542-4714-abb6-88b7f1e92a25)] -> xpath: //div[@class='ij_XRAOXFVqUYY8480uZC']]
+[INFO ] 2023-03-21 17:11:17.087 [main] Log - wait for until element [[FirefoxDriver: firefox on WINDOWS (442139f9-b542-4714-abb6-88b7f1e92a25)] -> xpath: //a[normalize-space()='Log Out']]is visible
+[INFO ] 2023-03-21 17:11:19.455 [main] Log - Clicked on element Proxy element for: DefaultElementLocator 'By.xpath: //a[normalize-space()='Log Out']'
+[INFO ] 2023-03-21 17:11:19.458 [main] Log - LogoutTest is passed
+[INFO ] 2023-03-21 17:11:19.459 [main] Log - Logout com.blazeclan.qa.test.testng.LogoutTest 0a01203b-c635-4ec8-a635-21ad07ea954b []
+[INFO ] 2023-03-21 17:11:21.738 [main] Log - I am on finish method testng
