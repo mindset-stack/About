@@ -117,6 +117,8 @@ public class CrossBrowser extends CommonFunctions {
 	        switch (browser) {
 	            case "chrome": //chrome driver
 	                ChromeOptions options = new ChromeOptions();
+	                options.addArguments("--no-sandbox");
+	                options.addArguments("--disable-dev-shm-usage");
 	                options.addArguments("--disable-notifications");
 	                options.addArguments("--remote-allow-origins=*");
 	               // Log.info("chrome browser is selected");
